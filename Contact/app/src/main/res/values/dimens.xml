@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_size">24dp</dimen>
+
+    <dimen name="margin_10dp">10dp</dimen>
+
+    <dimen name="text_phone_size">20dp</dimen>
+
+</resources>
